@@ -76,7 +76,7 @@
             <tr>
     <td><a href="https://leetcode.com/problems/ransom-note/">12.2</a></td>
     <td><a href="">12.3</a>, <a href="">12.5</a></td>
-    <td><a href="">12.1</a>, <a href="">12.5</a></td>
+    <td><a href="https://leetcode.com/problems/palindrome-permutation">12.1</a>, <a href="">12.5</a></td>
     <td><a href="">12.4</a>, <a href="">12.6</a></td>
     <td><a href="">12.9</a></td>
     </tr>
@@ -264,7 +264,7 @@
 
 | Problem | LeetCode |
 |---------|----------|
-| 12.1       | []() |
+| 12.1       | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) |
 | 12.2 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) |
 | 12.3 | []() |
 | 12.4 | []() |
@@ -320,7 +320,7 @@
 | 15.4 | [78. Subsets](https://leetcode.com/problems/subsets/) |
 | 15.5 | []() |
 | 15.6 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 15.7 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) |
+| 15.7 | [131. Palindrome Paritioning](https://leetcode.com/problems/palindrome-partitioning/) |
 | 15.8 | []() |
 | 15.9 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
 | 15.10 | [89. Gray Code](https://leetcode.com/problems/gray-code/) |
