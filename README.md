@@ -104,9 +104,9 @@
     <tr>
     <td><a href="">16.1</a></td>
     <td><a href="">16.2</a></td>
-    <td><a href="">16.3</a>, <a href="">16.6</a></td>
+    <td><a href="https://leetcode.com/problems/unique-paths/">16.3</a>, <a href="">16.6</a></td>
     <td><a href="">16.5</a>, <a href="">16.7</a></td>
-    <td><a href="">16.12</a></td>
+    <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">16.12</a></td>
     </tr>
     <tr>
     <td><a href="">17.4</a></td>
@@ -324,3 +324,20 @@
 | 15.8 | []() |
 | 15.9 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
 | 15.10 | [89. Gray Code](https://leetcode.com/problems/gray-code/) |
+
+# Dynamic Programming
+
+| Problem | LeetCode |
+|---------|----------|
+| 16.1       | []() |
+| 16.2 | []() |
+| 16.3 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) |
+| 16.4 | []() |
+| 16.5 | []() |
+| 16.6 | []() |
+| 16.7 | []() |
+| 16.8 | []() |
+| 16.9 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/) |
+| 16.10 | [70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |
+| 16.11 | []() |
+| 16.12 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |
