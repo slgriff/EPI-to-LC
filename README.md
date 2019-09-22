@@ -32,11 +32,11 @@
     <td><a href="">5.3</a>, <a href="">5.10</a>, <a href="">5.15</a></td>
     </tr>
         <tr>
-    <td><a href="">6.1</a></td>
+    <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">6.1</a></td>
     <td><a href="">6.2</a>, <a href="">6.4</a></td>
-    <td><a href="">6.5</a>, <a href="">6.6</a></td>
-    <td><a href="">6.7</a>, <a href="">6.8</a></td>
-    <td><a href="">6.9</a>, <a href="">6.11</a></td>
+    <td><a href="https://leetcode.com/problems/valid-palindrome/">6.5</a>, <a href="https://leetcode.com/problems/reverse-words-in-a-string-ii">6.6</a></td>
+    <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">6.7</a>, <a href="https://leetcode.com/problems/count-and-say/">6.8</a></td>
+    <td><a href="https://leetcode.com/problems/roman-to-integer">6.9</a>, <a href="">6.11</a></td>
     </tr>
      <tr>
     <td><a href="https://leetcode.com/problems/merge-two-sorted-lists">7.1</a></td>
@@ -168,18 +168,18 @@
 
 | Problem | LeetCode |
 |---------|----------|
-| 6.1       | []() |
+| 6.1       | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) note: book asks for Integer to String (itoa) as well |
 | 6.2 | []() |
-| 6.3 | []() |
+| 6.3 | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |
 | 6.4 | []() |
-| 6.5 | []() |
-| 6.6 | []() |
-| 6.7 | []() |
-| 6.8 | []() |
-| 6.9 | []() |
+| 6.5 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |
+| 6.6 | [186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii) |
+| 6.7 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+| 6.8 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) |
+| 6.9 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) |
 | 6.10 | []() |
 | 6.11 | []() |
-| 6.12 | []() |
+| 6.12 | [443. String Compression](https://leetcode.com/problems/string-compression/) |
 | 6.13 | []() |
 
 # Linked Lists
