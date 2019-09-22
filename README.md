@@ -320,7 +320,7 @@
 | 15.4 | [78. Subsets](https://leetcode.com/problems/subsets/) |
 | 15.5 | []() |
 | 15.6 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 15.7 | []() |
+| 15.7 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) |
 | 15.8 | []() |
 | 15.9 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
 | 15.10 | [89. Gray Code](https://leetcode.com/problems/gray-code/) |
