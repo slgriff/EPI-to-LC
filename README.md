@@ -109,11 +109,11 @@
     <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">16.12</a></td>
     </tr>
     <tr>
-    <td><a href="">17.4</a></td>
-    <td><a href="">17.6</a></td>
-    <td><a href="">17.5</a></td>
-    <td><a href="">17.7</a></td>
-    <td><a href="">17.8</a></td>
+    <td><a href="https://leetcode.com/problems/3sum">17.4</a></td>
+    <td><a href="https://leetcode.com/problems/gas-station/">17.6</a></td>
+    <td><a href="https://leetcode.com/problems/majority-element/">17.5</a></td>
+    <td><a href="https://leetcode.com/problems/container-with-most-water/">17.7</a></td>
+    <td><a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">17.8</a></td>
     </tr>
      <tr>
     <td><a href="">18.1</a></td>
@@ -341,3 +341,16 @@
 | 16.10 | [70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |
 | 16.11 | []() |
 | 16.12 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |
+
+# Greedy Algorithms and Invariants
+
+| Problem | LeetCode |
+|---------|----------|
+| 17.1       | []() |
+| 17.2 | []() |
+| 17.3 | []() |
+| 17.4 | [15. 3Sum](https://leetcode.com/problems/3sum) |
+| 17.5 | [169. Majority Element](https://leetcode.com/problems/majority-element/) |
+| 17.6 | [134. Gas Station](https://leetcode.com/problems/gas-station/) |
+| 17.7 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |
+| 17.8 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
