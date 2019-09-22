@@ -116,10 +116,10 @@
     <td><a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">17.8</a></td>
     </tr>
      <tr>
-    <td><a href="">18.1</a></td>
+    <td><a href="https://leetcode.com/problems/the-maze-ii">18.1</a></td>
     <td><a href="">18.7</a></td>
-    <td><a href="">18.2</a></td>
-    <td><a href="">18.3</a></td>
+    <td><a href="https://leetcode.com/problems/flood-fill/">18.2</a></td>
+    <td><a href="https://leetcode.com/problems/number-of-enclaves/">18.3</a></td>
     <td><a href="">18.5</a></td>
     </tr>
      <tr>
@@ -320,7 +320,7 @@
 | 15.4 | [78. Subsets](https://leetcode.com/problems/subsets/) |
 | 15.5 | []() |
 | 15.6 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
-| 15.7 | [131. Palindrome Paritioning](https://leetcode.com/problems/palindrome-partitioning/) |
+| 15.7 | [131. Palindrome Partioning](https://leetcode.com/problems/palindrome-partitioning/) |
 | 15.8 | []() |
 | 15.9 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
 | 15.10 | [89. Gray Code](https://leetcode.com/problems/gray-code/) |
@@ -354,3 +354,16 @@
 | 17.6 | [134. Gas Station](https://leetcode.com/problems/gas-station/) |
 | 17.7 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |
 | 17.8 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
+
+# Graphs
+
+| Problem | LeetCode |
+|---------|----------|
+| 18.1       | [505. The Maze II](https://leetcode.com/problems/the-maze-ii) note: shortest path instead of any path |
+| 18.2 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) |
+| 18.3 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) |
+| 18.4 | []() |
+| 18.5 | []() |
+| 18.6 | []() |
+| 18.7 | []() |
+| 18.8 | []() |
