@@ -68,7 +68,7 @@
     </tr>
             <tr>
     <td><a href="">11.1</a></td>
-    <td><a href="">11.4</a>, <a href="https://leetcode.com/problems/kth-largest-element-in-an-array">11.8</a></td>
+    <td><a href="https://leetcode.com/problems/sqrtx/">11.4</a>, <a href="https://leetcode.com/problems/kth-largest-element-in-an-array">11.8</a></td>
     <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array">11.3</a>, <a href="">11.9</a></td>
     <td><a href="">11.5</a>, <a href="">11.10</a></td>
     <td><a href="https://leetcode.com/problems/search-a-2d-matrix-ii/">11.6</a>, <a href="">11.7</a></td>
@@ -77,7 +77,7 @@
     <td><a href="https://leetcode.com/problems/ransom-note/">12.2</a></td>
     <td><a href="">12.3</a>, <a href="">12.5</a></td>
     <td><a href="https://leetcode.com/problems/palindrome-permutation">12.1</a>, <a href="">12.5</a></td>
-    <td><a href="">12.4</a>, <a href="">12.6</a></td>
+    <td><a href="">12.4</a>, <a href="https://leetcode.com/problems/minimum-window-substring">12.6</a></td>
     <td><a href="">12.9</a></td>
     </tr>
             <tr>
@@ -180,7 +180,7 @@
 | 6.10 | []() |
 | 6.11 | []() |
 | 6.12 | [443. String Compression](https://leetcode.com/problems/string-compression/) |
-| 6.13 | []() |
+| 6.13 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) |
 
 # Linked Lists
 
@@ -252,7 +252,7 @@
 | 11.1       | []() |
 | 11.2 | []() |
 | 11.3 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
-| 11.4 | []() |
+| 11.4 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
 | 11.5 | []() |
 | 11.6 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) |
 | 11.7 | []() |
@@ -269,8 +269,8 @@
 | 12.3 | []() |
 | 12.4 | []() |
 | 12.5 | []() |
-| 12.6 | []() |
-| 12.7 | []() |
+| 12.6 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) note: strings instead of arrays |
+| 12.7 | [727. Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence) note: strings instead of arrays |
 | 12.8 | []() |
 | 12.9 | []() |
 | 12.10 | []() |
