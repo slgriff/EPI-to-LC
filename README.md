@@ -28,7 +28,7 @@
     <td><a href="https://leetcode.com/problems/sort-colors/">5.1</a>, <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">5.6</a></td>
     <td><a href="">5.12</a>, <a href="">5.18</a></td>
     <td><a href="">5.2</a>, <a href="https://leetcode.com/problems/valid-sudoku/">5.17</a></td>
-    <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">5.5</a>, <a href="">5.9</a></td>
+    <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">5.5</a>, <a href="https://leetcode.com/problems/count-primes">5.9</a></td>
     <td><a href="">5.3</a>, <a href="">5.10</a>, <a href="">5.15</a></td>
     </tr>
         <tr>
@@ -151,7 +151,7 @@
 | 5.6       | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 5.7 | [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
 | 5.8 | [280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort) |
-| 5.9 | []() |
+| 5.9 | [204. Count Primes](https://leetcode.com/problems/count-primes) note: book asks to return a list of the primes |
 | 5.10 | []() |
 | 5.11 | []() |
 | 5.12 | []() |
@@ -336,8 +336,8 @@
 | 16.5 | []() |
 | 16.6 | []() |
 | 16.7 | []() |
-| 16.8 | []() |
-| 16.9 | [486. Predict the Winner](https://leetcode.com/problems/predict-the-winner/) |
+| 16.8 | [120. Triangle](https://leetcode.com/problems/triangle/) |
+| 16.9 | [877. Stone Game](https://leetcode.com/problems/stone-game/) |
 | 16.10 | [70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |
 | 16.11 | []() |
 | 16.12 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |
