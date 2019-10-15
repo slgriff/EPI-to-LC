@@ -19,10 +19,10 @@
     </tr>
         <tr>
     <td><a href="">4.1</a></td>
-    <td><a href="">4.7</a></td>
+    <td><a href="https://leetcode.com/problems/powx-n/">4.7</a></td>
     <td><a href="">4.8</a></td>
-    <td><a href="">4.3</a>, <a href="">4.11</a></td>
-    <td><a href="">4.9</a></td>
+    <td><a href="https://leetcode.com/problems/reverse-bits/">4.3</a>, <a href="https://leetcode.com/problems/rectangle-overlap/">4.11</a></td>
+    <td><a href="https://leetcode.com/problems/palindrome-number/">4.9</a></td>
     </tr>
     <tr>
     <td><a href="https://leetcode.com/problems/sort-colors/">5.1</a>, <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">5.6</a></td>
@@ -138,6 +138,22 @@
     </tr>
   </tbody>
 </table>
+
+# Primitive Types
+
+| Problem | LeetCode |
+|---------|----------|
+| 4.1       | []() |
+| 4.2 | []() |
+| 4.3 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) |
+| 4.4 | []() |
+| 4.5 | []() |
+| 4.6 | []() |
+| 4.7 | [50. Pow(x,n)](https://leetcode.com/problems/powx-n/) |
+| 4.8 | []() |
+| 4.9 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) |
+| 4.10 | [470. Implement Rand10() using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) note: book is implement Rand6() with Rand2() |
+| 4.11 | [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) note: book asks to determine overlapping area where it exists |
 
 # Arrays
 
