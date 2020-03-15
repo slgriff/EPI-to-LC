@@ -18,123 +18,123 @@
 	    <td>C4</td>
     </tr>
         <tr>
-    <td><a href="">4.1</a></td>
-    <td><a href="https://leetcode.com/problems/powx-n/">4.7</a></td>
-    <td><a href="">4.8</a></td>
-    <td><a href="https://leetcode.com/problems/reverse-bits/">4.3</a>, <a href="https://leetcode.com/problems/rectangle-overlap/">4.11</a></td>
-    <td><a href="https://leetcode.com/problems/palindrome-number/">4.9</a></td>
+    <td><a href="">5.1</a></td>
+    <td><a href="https://leetcode.com/problems/powx-n/">5.7</a></td>
+    <td><a href="">5.8</a></td>
+    <td><a href="https://leetcode.com/problems/reverse-bits/">5.3</a>, <a href="https://leetcode.com/problems/rectangle-overlap/">5.11</a></td>
+    <td><a href="https://leetcode.com/problems/palindrome-number/">5.9</a></td>
     </tr>
     <tr>
-    <td><a href="https://leetcode.com/problems/sort-colors/">5.1</a>, <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">5.6</a></td>
-    <td><a href="">5.12</a>, <a href="">5.18</a></td>
-    <td><a href="">5.2</a>, <a href="https://leetcode.com/problems/valid-sudoku/">5.17</a></td>
-    <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">5.5</a>, <a href="https://leetcode.com/problems/count-primes">5.9</a></td>
-    <td><a href="">5.3</a>, <a href="">5.10</a>, <a href="">5.15</a></td>
+    <td><a href="https://leetcode.com/problems/sort-colors/">6.1</a>, <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">6.6</a></td>
+    <td><a href="">6.12</a>, <a href="">6.18</a></td>
+    <td><a href="">6.2</a>, <a href="https://leetcode.com/problems/valid-sudoku/">6.17</a></td>
+    <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">6.5</a>, <a href="https://leetcode.com/problems/count-primes">6.9</a></td>
+    <td><a href="">6.3</a>, <a href="">6.10</a>, <a href="">6.15</a></td>
     </tr>
         <tr>
-    <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">6.1</a></td>
-    <td><a href="">6.2</a>, <a href="">6.4</a></td>
-    <td><a href="https://leetcode.com/problems/valid-palindrome/">6.5</a>, <a href="https://leetcode.com/problems/reverse-words-in-a-string-ii">6.6</a></td>
-    <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">6.7</a>, <a href="https://leetcode.com/problems/count-and-say/">6.8</a></td>
-    <td><a href="https://leetcode.com/problems/roman-to-integer">6.9</a>, <a href="">6.11</a></td>
+    <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">7.1</a></td>
+    <td><a href="">7.2</a>, <a href="">7.4</a></td>
+    <td><a href="https://leetcode.com/problems/valid-palindrome/">7.5</a>, <a href="https://leetcode.com/problems/reverse-words-in-a-string-ii">7.6</a></td>
+    <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">7.7</a>, <a href="https://leetcode.com/problems/count-and-say/">7.8</a></td>
+    <td><a href="https://leetcode.com/problems/roman-to-integer">7.9</a>, <a href="">7.11</a></td>
     </tr>
      <tr>
-    <td><a href="https://leetcode.com/problems/merge-two-sorted-lists">7.1</a></td>
-    <td><a href="https://leetcode.com/problems/reverse-linked-list">7.2</a>, <a href="https://leetcode.com/problems/linked-list-cycle-ii/">7.3</a></td>
-    <td><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">7.4</a>, <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">7.7</a></td>
-    <td><a href="https://leetcode.com/problems/odd-even-linked-list/">7.10</a></td>
-    <td> <a href="https://leetcode.com/problems/palindrome-linked-list/">7.11</a></td>
+    <td><a href="https://leetcode.com/problems/merge-two-sorted-lists">8.1</a></td>
+    <td><a href="https://leetcode.com/problems/reverse-linked-list">8.2</a>, <a href="https://leetcode.com/problems/linked-list-cycle-ii/">8.3</a></td>
+    <td><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">8.4</a>, <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">8.7</a></td>
+    <td><a href="https://leetcode.com/problems/odd-even-linked-list/">8.10</a></td>
+    <td> <a href="https://leetcode.com/problems/palindrome-linked-list/">8.11</a></td>
     </tr>
     <tr>
-    <td><a href="https://leetcode.com/problems/min-stack/">8.1</a></td>
-    <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">8.6</a></td>
-    <td><a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">8.2</a>, <a href="https://leetcode.com/problems/design-circular-queue/">8.7</a></td>
-    <td><a href="https://leetcode.com/problems/valid-parentheses/">8.3</a>, <a href="https://leetcode.com/problems/implement-queue-using-stacks/">8.8</a></td>
-    <td><a href="https://leetcode.com/problems/simplify-path/">8.4</a></td>
+    <td><a href="https://leetcode.com/problems/min-stack/">9.1</a></td>
+    <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">9.6</a></td>
+    <td><a href="https://leetcode.com/problems/evaluate-reverse-polish-notation/">9.2</a>, <a href="https://leetcode.com/problems/design-circular-queue/">9.7</a></td>
+    <td><a href="https://leetcode.com/problems/valid-parentheses/">9.3</a>, <a href="https://leetcode.com/problems/implement-queue-using-stacks/">9.8</a></td>
+    <td><a href="https://leetcode.com/problems/simplify-path/">9.4</a></td>
     </tr>
             <tr>
-    <td><a href="https://leetcode.com/problems/balanced-binary-tree/">9.1</a></td>
-    <td><a href="">9.4</a></td>
-    <td><a href="https://leetcode.com/problems/symmetric-tree/">9.2</a>, <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/">9.12</a></td>
-    <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">9.11</a></td>
-    <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">9.13</a>, <a href="">9.16</a></td>
-    </tr>
-            <tr>
-    <td><a href="">10.1</a></td>
-    <td><a href="https://leetcode.com/problems/k-closest-points-to-origin/">10.4</a></td>
-    <td><a href="">10.3</a></td>
-    <td><a href="">10.5</a></td>
-    <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">10.6</a></td>
+    <td><a href="https://leetcode.com/problems/balanced-binary-tree/">10.1</a></td>
+    <td><a href="">10.4</a></td>
+    <td><a href="https://leetcode.com/problems/symmetric-tree/">10.2</a>, <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/">10.12</a></td>
+    <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">10.11</a></td>
+    <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">10.13</a>, <a href="">10.16</a></td>
     </tr>
             <tr>
     <td><a href="">11.1</a></td>
-    <td><a href="https://leetcode.com/problems/sqrtx/">11.4</a>, <a href="https://leetcode.com/problems/kth-largest-element-in-an-array">11.8</a></td>
-    <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array">11.3</a>, <a href="">11.9</a></td>
-    <td><a href="">11.5</a>, <a href="">11.10</a></td>
-    <td><a href="https://leetcode.com/problems/search-a-2d-matrix-ii/">11.6</a>, <a href="">11.7</a></td>
+    <td><a href="https://leetcode.com/problems/k-closest-points-to-origin/">11.4</a></td>
+    <td><a href="">11.3</a></td>
+    <td><a href="">11.5</a></td>
+    <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">11.6</a></td>
     </tr>
             <tr>
-    <td><a href="https://leetcode.com/problems/ransom-note/">12.2</a></td>
-    <td><a href="">12.3</a>, <a href="">12.5</a></td>
-    <td><a href="https://leetcode.com/problems/palindrome-permutation">12.1</a>, <a href="">12.5</a></td>
-    <td><a href="">12.4</a>, <a href="https://leetcode.com/problems/minimum-window-substring">12.6</a></td>
-    <td><a href="">12.9</a></td>
+    <td><a href="">12.1</a></td>
+    <td><a href="https://leetcode.com/problems/sqrtx/">12.4</a>, <a href="https://leetcode.com/problems/kth-largest-element-in-an-array">12.8</a></td>
+    <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array">12.3</a>, <a href="">12.9</a></td>
+    <td><a href="">12.5</a>, <a href="">12.10</a></td>
+    <td><a href="https://leetcode.com/problems/search-a-2d-matrix-ii/">12.6</a>, <a href="">12.7</a></td>
     </tr>
             <tr>
-    <td><a href="">13.1</a></td>
-    <td><a href="https://leetcode.com/problems/merge-sorted-array">13.2</a></td>
-    <td><a href="">13.6</a></td>
-    <td><a href="">13.8</a>, <a href="">13.11</a></td>
+    <td><a href="https://leetcode.com/problems/ransom-note/">13.2</a></td>
+    <td><a href="">13.3</a>, <a href="">13.5</a></td>
+    <td><a href="https://leetcode.com/problems/palindrome-permutation">13.1</a>, <a href="">13.5</a></td>
+    <td><a href="">13.4</a>, <a href="https://leetcode.com/problems/minimum-window-substring">13.6</a></td>
     <td><a href="">13.9</a></td>
     </tr>
             <tr>
-    <td><a href="https://leetcode.com/problems/validate-binary-search-tree">14.1</a></td>
-    <td><a href="https://leetcode.com/problems/inorder-successor-in-bst">14.2</a>, <a href="">14.3</a></td>
-    <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">14.4</a></td>
-    <td><a href="">14.5</a>, <a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree">14.8</a></td>
-    <td><a href="">14.7</a></td>
+    <td><a href="">14.1</a></td>
+    <td><a href="https://leetcode.com/problems/merge-sorted-array">14.2</a></td>
+    <td><a href="">14.6</a></td>
+    <td><a href="">14.8</a>, <a href="">14.11</a></td>
+    <td><a href="">14.9</a></td>
     </tr>
             <tr>
-    <td><a href="">15.1</a></td>
-    <td><a href="https://leetcode.com/problems/n-queens/">15.2</a></td>
-    <td><a href="https://leetcode.com/problems/permutations/">15.3</a></td>
-    <td><a href="https://leetcode.com/problems/subsets/">15.4</a>, <a href="https://leetcode.com/problems/sudoku-solver">15.9</a></td>
-    <td><a href="">15.6</a>, <a href="https://leetcode.com/problems/gray-code/">15.10</a></td>
+    <td><a href="https://leetcode.com/problems/validate-binary-search-tree">15.1</a></td>
+    <td><a href="https://leetcode.com/problems/inorder-successor-in-bst">15.2</a>, <a href="">15.3</a></td>
+    <td><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">15.4</a></td>
+    <td><a href="">15.5</a>, <a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree">15.8</a></td>
+    <td><a href="">15.7</a></td>
     </tr>
-    <tr>
+            <tr>
     <td><a href="">16.1</a></td>
-    <td><a href="">16.2</a></td>
-    <td><a href="https://leetcode.com/problems/unique-paths/">16.3</a>, <a href="">16.6</a></td>
-    <td><a href="">16.5</a>, <a href="https://leetcode.com/problems/word-break-ii/">16.7</a></td>
-    <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">16.12</a></td>
+    <td><a href="https://leetcode.com/problems/n-queens/">16.2</a></td>
+    <td><a href="https://leetcode.com/problems/permutations/">16.3</a></td>
+    <td><a href="https://leetcode.com/problems/subsets/">16.4</a>, <a href="https://leetcode.com/problems/sudoku-solver">16.9</a></td>
+    <td><a href="">16.6</a>, <a href="https://leetcode.com/problems/gray-code/">16.10</a></td>
     </tr>
     <tr>
-    <td><a href="https://leetcode.com/problems/3sum">17.4</a></td>
-    <td><a href="https://leetcode.com/problems/gas-station/">17.6</a></td>
-    <td><a href="https://leetcode.com/problems/majority-element/">17.5</a></td>
-    <td><a href="https://leetcode.com/problems/container-with-most-water/">17.7</a></td>
-    <td><a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">17.8</a></td>
+    <td><a href="">17.1</a></td>
+    <td><a href="">17.2</a></td>
+    <td><a href="https://leetcode.com/problems/unique-paths/">17.3</a>, <a href="">17.6</a></td>
+    <td><a href="">17.5</a>, <a href="https://leetcode.com/problems/word-break-ii/">17.7</a></td>
+    <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">17.12</a></td>
+    </tr>
+    <tr>
+    <td><a href="https://leetcode.com/problems/3sum">18.4</a></td>
+    <td><a href="https://leetcode.com/problems/gas-station/">18.6</a></td>
+    <td><a href="https://leetcode.com/problems/majority-element/">18.5</a></td>
+    <td><a href="https://leetcode.com/problems/container-with-most-water/">18.7</a></td>
+    <td><a href="https://leetcode.com/problems/largest-rectangle-in-histogram/">18.8</a></td>
     </tr>
      <tr>
-    <td><a href="https://leetcode.com/problems/the-maze-ii">18.1</a></td>
-    <td><a href="">18.7</a></td>
-    <td><a href="https://leetcode.com/problems/flood-fill/">18.2</a></td>
-    <td><a href="https://leetcode.com/problems/number-of-enclaves/">18.3</a></td>
-    <td><a href="">18.5</a></td>
+    <td><a href="https://leetcode.com/problems/the-maze-ii">19.1</a></td>
+    <td><a href="">19.7</a></td>
+    <td><a href="https://leetcode.com/problems/flood-fill/">19.2</a></td>
+    <td><a href="https://leetcode.com/problems/number-of-enclaves/">19.3</a></td>
+    <td><a href="">19.5</a></td>
     </tr>
      <tr>
-    <td><a href="">19.3</a></td>
-    <td><a href="">19.6</a></td>
-    <td><a href="">19.8</a></td>
-    <td><a href="">19.9</a></td>
+    <td><a href="">20.3</a></td>
+    <td><a href="">20.6</a></td>
+    <td><a href="">20.8</a></td>
+    <td><a href="">20.9</a></td>
     <td><a href="">20.9</a></td>
     </tr>
      <tr>
-    <td><a href="">20.13</a></td>
-    <td><a href="">20.15</a></td>
-    <td><a href="">20.16</a></td>
-    <td><a href="">20.1</a></td>
-    <td><a href="">20.2</a></td>
+    <td><a href="">21.13</a></td>
+    <td><a href="">21.15</a></td>
+    <td><a href="">21.16</a></td>
+    <td><a href="">21.1</a></td>
+    <td><a href="">21.2</a></td>
     </tr>
   </tbody>
 </table>
