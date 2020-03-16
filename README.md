@@ -18,7 +18,7 @@
 	    <td>C4</td>
     </tr>
         <tr>
-    <td><a href="">5.1</a></td>
+    <td><a href="" target="_blank">5.1</a></td>
     <td><a href="https://leetcode.com/problems/powx-n/">5.7</a></td>
     <td><a href="">5.8</a></td>
     <td><a href="https://leetcode.com/problems/reverse-bits/">5.3</a>, <a href="https://leetcode.com/problems/rectangle-overlap/">5.11</a></td>
