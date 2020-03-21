@@ -1,3 +1,8 @@
+Mappings for:
+* Java edition &copy; 2019
+* Python edition &copy; 2019
+* C++ edition &copy; 2018
+
 # Study guides for shortened time frames
 
 <table>
