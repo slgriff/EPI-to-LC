@@ -198,7 +198,7 @@ Mappings for:
 | 6.7 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 | 6.8 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) |
 | 6.9 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) |
-| 6.10 | []() |
+| 6.10 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) |
 | 6.11 | []() |
 | 6.12 | [443. String Compression](https://leetcode.com/problems/string-compression/) |
 | 6.13 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) |
