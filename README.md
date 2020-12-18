@@ -174,10 +174,10 @@ Mappings for:
 | 5.8 | [280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort) |
 | 5.9 | [204. Count Primes](https://leetcode.com/problems/count-primes) note: book asks to return a list of the primes |
 | 5.10 | []() |
-| 5.11 | []() |
+| 5.11 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) |
 | 5.12 | []() |
 | 5.13 | []() |
-| 5.14 | []() |
+| 5.14 | [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) |
 | 5.15 | []() |
 | 5.16 | []() |
 | 5.17 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |
