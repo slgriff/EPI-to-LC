@@ -108,7 +108,7 @@ Mappings for:
     </tr>
     <tr>
     <td><a href="">16.1</a></td>
-    <td><a href="">16.2</a></td>
+    <td><a href="https://leetcode.com/problems/edit-distance/">16.2</a></td>
     <td><a href="https://leetcode.com/problems/unique-paths/">16.3</a>, <a href="">16.6</a></td>
     <td><a href="">16.5</a>, <a href="https://leetcode.com/problems/word-break-ii/">16.7</a></td>
     <td><a href="https://leetcode.com/problems/longest-increasing-subsequence/">16.12</a></td>
@@ -351,7 +351,7 @@ Mappings for:
 | Problem | LeetCode |
 |---------|----------|
 | 16.1       | []() |
-| 16.2 | []() |
+| 16.2 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) |
 | 16.3 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) |
 | 16.4 | []() |
 | 16.5 | []() |
