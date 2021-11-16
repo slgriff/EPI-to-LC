@@ -32,7 +32,7 @@ Mappings for:
     <tr>
     <td><a href="https://leetcode.com/problems/sort-colors/">5.1</a>, <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">5.6</a></td>
     <td><a href="">5.12</a>, <a href="">5.18</a></td>
-    <td><a href="">5.2</a>, <a href="https://leetcode.com/problems/valid-sudoku/">5.17</a></td>
+    <td><a href="https://leetcode.com/problems/plus-one/">5.2</a>, <a href="https://leetcode.com/problems/valid-sudoku/">5.17</a></td>
     <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">5.5</a>, <a href="https://leetcode.com/problems/count-primes">5.9</a></td>
     <td><a href="">5.3</a>, <a href="">5.10</a>, <a href="">5.15</a></td>
     </tr>
@@ -165,7 +165,7 @@ Mappings for:
 | Problem | LeetCode |
 |---------|----------|
 | 5.1       | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) |
-| 5.2       | []() |
+| 5.2       | [66. Plus One](https://leetcode.com/problems/plus-one/) |
 | 5.3       | []() |
 | 5.4       | [55. Jump Game](https://leetcode.com/problems/jump-game/) |
 | 5.5       | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
