@@ -308,8 +308,8 @@ Mappings for:
 | 13.4 | []() |
 | 13.5 | []() |
 | 13.6 | []() |
-| 13.7 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) |
-| 13.8 | []() |
+| 13.7 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) |
+| 13.8 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) |
 | 13.9 | []() |
 | 13.10 | []() |
 | 13.11 | [148. Sort List](https://leetcode.com/problems/sort-list/) |
