@@ -386,5 +386,5 @@ Mappings for:
 | 18.4 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) |
 | 18.5 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) |
 | 18.6 | []() |
-| 18.7 | []() |
+| 18.7 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) |
 | 18.8 | []() |
