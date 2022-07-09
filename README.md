@@ -342,7 +342,7 @@ Mappings for:
 | 15.5 | []() |
 | 15.6 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
 | 15.7 | [131. Palindrome Partioning](https://leetcode.com/problems/palindrome-partitioning/) |
-| 15.8 | []() |
+| 15.8 | [894. All Possible Full Binary Trees](https://leetcode.com/problems/unique-binary-search-trees/) |
 | 15.9 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
 | 15.10 | [89. Gray Code](https://leetcode.com/problems/gray-code/) |
 
