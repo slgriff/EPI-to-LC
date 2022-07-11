@@ -287,7 +287,7 @@ Mappings for:
 |---------|----------|
 | 12.1       | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) |
 | 12.2 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) |
-| 12.3 | []() |
+| 12.3 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) |
 | 12.4 | []() |
 | 12.5 | []() |
 | 12.6 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) note: strings instead of arrays |
@@ -308,8 +308,8 @@ Mappings for:
 | 13.4 | []() |
 | 13.5 | []() |
 | 13.6 | []() |
-| 13.7 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) |
-| 13.8 | []() |
+| 13.7 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/) |
+| 13.8 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) |
 | 13.9 | []() |
 | 13.10 | []() |
 | 13.11 | [148. Sort List](https://leetcode.com/problems/sort-list/) |
@@ -342,7 +342,7 @@ Mappings for:
 | 15.5 | []() |
 | 15.6 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |
 | 15.7 | [131. Palindrome Partioning](https://leetcode.com/problems/palindrome-partitioning/) |
-| 15.8 | []() |
+| 15.8 | [894. All Possible Full Binary Trees](https://leetcode.com/problems/unique-binary-search-trees/) This is variation and not exact same problem|
 | 15.9 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |
 | 15.10 | [89. Gray Code](https://leetcode.com/problems/gray-code/) |
 
@@ -383,8 +383,8 @@ Mappings for:
 | 18.1       | [505. The Maze II](https://leetcode.com/problems/the-maze-ii) note: shortest path instead of any path |
 | 18.2 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) |
 | 18.3 | [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) |
-| 18.4 | []() |
-| 18.5 | []() |
+| 18.4 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) |
+| 18.5 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) |
 | 18.6 | []() |
-| 18.7 | []() |
+| 18.7 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) |
 | 18.8 | []() |
