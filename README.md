@@ -65,7 +65,7 @@ Mappings for:
     <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">9.13</a>, <a href="">9.16</a></td>
     </tr>
             <tr>
-    <td><a href="">10.1</a></td>
+    <td><a href="https://leetcode.com/problems/merge-k-sorted-lists">10.1</a></td>
     <td><a href="https://leetcode.com/problems/k-closest-points-to-origin/">10.4</a></td>
     <td><a href="">10.3</a></td>
     <td><a href="">10.5</a></td>
@@ -259,7 +259,7 @@ Mappings for:
 
 | Problem | LeetCode |
 |---------|----------|
-| 10.1       | []() |
+| 10.1       | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) note: linked lists instead of arrays |
 | 10.2 | []() |
 | 10.3 | []() |
 | 10.4 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) |
