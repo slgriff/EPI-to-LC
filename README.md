@@ -155,8 +155,8 @@ Mappings for:
 | 4.5 | []() |
 | 4.6 | []() |
 | 4.7 | [50. Pow(x,n)](https://leetcode.com/problems/powx-n/) |
-| 4.8 | []() |
-| 4.9 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) |
+| 4.8 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer) |
+| 4.9 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) note: return 0 if overflow above 2^31-1  or underflow below - 2^31 of the reversed value |
 | 4.10 | [470. Implement Rand10() using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) note: book is implement Rand6() with Rand2() |
 | 4.11 | [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) note: book asks to determine overlapping area where it exists |
 
